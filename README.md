@@ -14,7 +14,7 @@
   <a href="https://nuqloud.com"><strong>NUQLOUD</strong></a>
 </p>
 
-<h3 align="center">I build the infrastructure behind independent systems.</h3>
+<h3 align="center">Building Decentralized and Independent Infrastructure for the World.</h3>
 
 <p align="center">
   Qortal Founder · CHD · Full-stack and infrastructure engineer<br />
