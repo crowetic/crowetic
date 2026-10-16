@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/crowetic-header-static.png" width="100%" alt="Crowetic — animated decentralized network infrastructure" />
+  <img src="assets/new-animated.gif" width="100%" alt="Crowetic — animated decentralized network infrastructure" />
 </p>
 
 <p align="center">
-  <a href="https://crowetic.com"><strong>WEBSITE</strong></a>
+  <a href="https://crowetic.com"><strong>CHD</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/crowetic"><strong>GITHUB</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
