@@ -10,6 +10,8 @@
   <a href="https://gitea.qortal.link/crowetic"><strong>GITEA</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://qortal.org"><strong>QORTAL</strong></a>
+   &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://nuqloud.com"><strong>NUQLOUD</strong></a>
 </p>
 
 <h3 align="center">I build the infrastructure behind independent systems.</h3>
@@ -28,6 +30,7 @@
 | **[Qortal](https://github.com/Qortal/qortal)** <br /> A decentralized ecosystem for publishing, communications, and infrastructure beyond conventional hosting. | **[NuQloud AI](https://gitea.qortal.link/NuQloud-Public/nuqloud-ai)** <br /> AI interfaces, tools, routing, and automation integrated with a self-hosted cloud platform. |
 | **[Qortal External Auth](https://gitea.qortal.link/crowetic/Qortal-External-Auth)** <br /> Using Qortal identity to authenticate external applications. | **[NuQloud Computer](https://gitea.qortal.link/NuQloud-Public/NuQloud-Computer)** <br /> In development: connected computing environments for AI-assisted workflows. |
 | **[QORTector Scripts](https://gitea.qortal.link/crowetic/QORTector-scripts)** <br /> Automation and operations tooling for Qortal infrastructure. | **[NuQloud Appointments](https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments)** <br /> Custom scheduling and booking workflows for the NuQloud ecosystem. |
+
 
 ### 02 / The stack
 
