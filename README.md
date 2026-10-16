@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero-animated.gif" width="100%" alt="Crowetic — animated decentralized network infrastructure" />
+  <img src="assets/crowetic-header-static.png" width="100%" alt="Crowetic — animated decentralized network infrastructure" />
 </p>
 
 <p align="center">
