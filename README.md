@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.png" width="100%" alt="Crowetic — decentralized systems and AI infrastructure, with a connected digital globe" />
+  <img src="assets/hero-animated.gif" width="100%" alt="Crowetic — animated decentralized network infrastructure" />
 </p>
 
 <p align="center">
