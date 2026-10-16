@@ -15,7 +15,7 @@
 <h3 align="center">I build the infrastructure behind independent systems.</h3>
 
 <p align="center">
-  Founder of Qortal · CTO · Full-stack and infrastructure engineer<br />
+  Qortal Founder · CHD · Full-stack and infrastructure engineer<br />
   Distributed networks / self-hosted cloud / local AI / agent orchestration
 </p>
 
