@@ -296,41 +296,9 @@
         "repo": "NuQloud-Public/nuqloud-ai",
         "source": "Gitea",
         "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-09T18:23:19Z",
-        "key": "gitea:38671",
-        "repo": "NuQloud-Public/nuqloud-ai",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-09T01:14:12Z",
-        "key": "gitea:38657",
-        "repo": "NuQloud-Public/nuqloud-ai",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-09T01:03:03Z",
-        "key": "gitea:38655",
-        "repo": "NuQloud-Public/nuqloud-ai",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-09T00:37:18Z",
-        "key": "gitea:38649",
-        "repo": "NuQloud-Public/nuqloud-ai",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
       }
     ],
-    "feed_updated_at": "2026-10-16T19:33:20Z",
+    "feed_updated_at": "2026-10-17T08:33:03Z",
     "heatmap": {
       "2025-10-17": 6,
       "2025-10-29": 1,
@@ -471,10 +439,18 @@
       "2026-10-15": 12,
       "2026-10-16": 7
     },
-    "heatmap_updated_at": "2026-10-16T19:33:20Z"
+    "heatmap_updated_at": "2026-10-17T08:33:03Z"
   },
   "github": {
     "events": [
+      {
+        "action": "Pushed code",
+        "at": "2026-10-16T02:36:26Z",
+        "key": "github:24242286551",
+        "repo": "crowetic/QORTector-scripts",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/QORTector-scripts"
+      },
       {
         "action": "Created branch or tag",
         "at": "2026-10-16T00:17:20Z",
@@ -604,6 +580,6 @@
         "url": "https://github.com/crowetic/qortal"
       }
     ],
-    "feed_updated_at": "2026-10-16T19:33:20Z"
+    "feed_updated_at": "2026-10-17T08:33:03Z"
   }
 }
