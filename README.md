@@ -45,17 +45,17 @@ A lot of my engineering happens outside GitHub. The projects and activity below 
 </p>
 
 <!-- CROWETIC:ACTIVITY:START -->
-**Last fetched:** Gitea 2026-10-19 09:52 UTC · GitHub 2026-10-19 09:52 UTC
+**Last fetched:** Gitea 2026-10-19 21:02 UTC · GitHub 2026-10-19 21:02 UTC
 
 | Date (UTC) | Forge | Public activity | Repository |
 |:---|:---|:---|:---|
+| 2026-10-19 | **Gitea** | Pushed code | [crowetic/arrr-scripts](https://gitea.qortal.link/crowetic/arrr-scripts) |
+| 2026-10-19 | **Gitea** | Pushed code | [crowetic/arrr-scripts](https://gitea.qortal.link/crowetic/arrr-scripts) |
+| 2026-10-19 | **Gitea** | Pushed code | [NuQloud-Public/nuqloud-ai](https://gitea.qortal.link/NuQloud-Public/nuqloud-ai) |
+| 2026-10-19 | **Gitea** | Pushed code | [NuQloud-Public/NuQloud-appointments](https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments) |
 | 2026-10-17 | **Gitea** | Pushed code | [crowetic/Qortal-External-Auth](https://gitea.qortal.link/crowetic/Qortal-External-Auth) |
 | 2026-10-17 | **Gitea** | Pushed code | [crowetic/Qortal-External-Auth](https://gitea.qortal.link/crowetic/Qortal-External-Auth) |
 | 2026-10-17 | **Gitea** | Pushed code | [NuQloud-Public/nuqloud-ai](https://gitea.qortal.link/NuQloud-Public/nuqloud-ai) |
-| 2026-10-17 | **Gitea** | Pushed code | [NuQloud-Public/nuqloud-ai](https://gitea.qortal.link/NuQloud-Public/nuqloud-ai) |
-| 2026-10-16 | **Gitea** | Pushed code | [NuQloud-Public/nuqloud-ai](https://gitea.qortal.link/NuQloud-Public/nuqloud-ai) |
-| 2026-10-16 | **Gitea** | Pushed code | [NuQloud-Public/NuQloud-Computer](https://gitea.qortal.link/NuQloud-Public/NuQloud-Computer) |
-| 2026-10-16 | **Gitea** | Pushed code | [crowetic/Qortal-External-Auth](https://gitea.qortal.link/crowetic/Qortal-External-Auth) |
 
 <sub>Gitea includes public work in organizations such as NuQloud-Public. GitHub's public events endpoint covers recent activity (at most 30 days / 300 events). These are events, not an accurate cross-host commit count.</sub>
 <!-- CROWETIC:ACTIVITY:END -->
