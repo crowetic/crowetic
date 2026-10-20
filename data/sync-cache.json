@@ -3,6 +3,246 @@
     "events": [
       {
         "action": "Pushed code",
+        "at": "2026-10-20T02:00:54Z",
+        "key": "gitea:39398",
+        "repo": "crowetic/Q-Assets",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/Q-Assets"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T02:00:41Z",
+        "key": "gitea:39393",
+        "repo": "NuQloud-Public/nuqloud-master-calendar",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-master-calendar"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T02:00:24Z",
+        "key": "gitea:39385",
+        "repo": "NuQloud-Public/SHEF-custom-acc-creation",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/SHEF-custom-acc-creation"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T02:00:16Z",
+        "key": "gitea:39381",
+        "repo": "crowetic/Qortal-External-Auth",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/Qortal-External-Auth"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T02:00:04Z",
+        "key": "gitea:39372",
+        "repo": "NuQloud-Public/NuQloud-talk-federated-files",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-talk-federated-files"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T01:59:59Z",
+        "key": "gitea:39369",
+        "repo": "NuQloud-Public/NuQloud-appointments",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T01:59:56Z",
+        "key": "gitea:39366",
+        "repo": "NuQloud-Public/NuQloud-Computer",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-Computer"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T01:59:50Z",
+        "key": "gitea:39360",
+        "repo": "NuQloud-Public/nuqloud-ai",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T01:40:08Z",
+        "key": "gitea:39354",
+        "repo": "NuQloud-Public/nuqloud-ai",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T01:40:08Z",
+        "key": "gitea:39357",
+        "repo": "NuQloud-Public/nuqloud-ai",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T01:37:20Z",
+        "key": "gitea:39348",
+        "repo": "crowetic/Qortal-External-Auth",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/Qortal-External-Auth"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T01:37:20Z",
+        "key": "gitea:39349",
+        "repo": "crowetic/Qortal-External-Auth",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/Qortal-External-Auth"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T01:07:49Z",
+        "key": "gitea:39345",
+        "repo": "crowetic/Q-Assets",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/Q-Assets"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T01:07:33Z",
+        "key": "gitea:39340",
+        "repo": "NuQloud-Public/nuqloud-master-calendar",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-master-calendar"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T01:07:19Z",
+        "key": "gitea:39332",
+        "repo": "NuQloud-Public/SHEF-custom-acc-creation",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/SHEF-custom-acc-creation"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T01:07:10Z",
+        "key": "gitea:39328",
+        "repo": "crowetic/Qortal-External-Auth",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/Qortal-External-Auth"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T01:06:59Z",
+        "key": "gitea:39319",
+        "repo": "NuQloud-Public/NuQloud-talk-federated-files",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-talk-federated-files"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T01:06:56Z",
+        "key": "gitea:39316",
+        "repo": "NuQloud-Public/NuQloud-appointments",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T01:06:52Z",
+        "key": "gitea:39313",
+        "repo": "NuQloud-Public/NuQloud-Computer",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-Computer"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T01:06:44Z",
+        "key": "gitea:39307",
+        "repo": "NuQloud-Public/nuqloud-ai",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T00:06:13Z",
+        "key": "gitea:39304",
+        "repo": "crowetic/Q-Assets",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/Q-Assets"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T00:05:58Z",
+        "key": "gitea:39299",
+        "repo": "NuQloud-Public/nuqloud-master-calendar",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-master-calendar"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T00:05:43Z",
+        "key": "gitea:39291",
+        "repo": "NuQloud-Public/SHEF-custom-acc-creation",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/SHEF-custom-acc-creation"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T00:05:37Z",
+        "key": "gitea:39287",
+        "repo": "crowetic/Qortal-External-Auth",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/Qortal-External-Auth"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T00:05:24Z",
+        "key": "gitea:39278",
+        "repo": "NuQloud-Public/NuQloud-talk-federated-files",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-talk-federated-files"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T00:05:20Z",
+        "key": "gitea:39275",
+        "repo": "NuQloud-Public/NuQloud-appointments",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T00:05:17Z",
+        "key": "gitea:39272",
+        "repo": "NuQloud-Public/NuQloud-Computer",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-Computer"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T00:05:09Z",
+        "key": "gitea:39266",
+        "repo": "NuQloud-Public/nuqloud-ai",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-19T23:50:37Z",
+        "key": "gitea:39263",
+        "repo": "NuQloud-Public/NuQloud-appointments",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-19T23:24:41Z",
+        "key": "gitea:39258",
+        "repo": "NuQloud-Public/nuqloud-ai",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
+      },
+      {
+        "action": "Pushed code",
         "at": "2026-10-19T20:46:43Z",
         "key": "gitea:39228",
         "repo": "crowetic/arrr-scripts",
@@ -328,25 +568,9 @@
         "repo": "NuQloud-Public/nuqloud-ai",
         "source": "Gitea",
         "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-12T22:00:39Z",
-        "key": "gitea:38742",
-        "repo": "NuQloud-Public/NuQloud-appointments",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-12T21:47:50Z",
-        "key": "gitea:38735",
-        "repo": "NuQloud-Public/nuqloud-ai",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
       }
     ],
-    "feed_updated_at": "2026-10-19T21:02:43Z",
+    "feed_updated_at": "2026-10-20T09:24:55Z",
     "heatmap": {
       "2025-10-17": 6,
       "2025-10-29": 1,
@@ -487,9 +711,10 @@
       "2026-10-15": 12,
       "2026-10-16": 7,
       "2026-10-17": 4,
-      "2026-10-19": 4
+      "2026-10-19": 6,
+      "2026-10-20": 33
     },
-    "heatmap_updated_at": "2026-10-19T21:02:43Z"
+    "heatmap_updated_at": "2026-10-20T09:24:55Z"
   },
   "github": {
     "events": [
@@ -630,6 +855,6 @@
         "url": "https://github.com/crowetic/qortal"
       }
     ],
-    "feed_updated_at": "2026-10-19T21:02:43Z"
+    "feed_updated_at": "2026-10-20T09:24:55Z"
   }
 }
