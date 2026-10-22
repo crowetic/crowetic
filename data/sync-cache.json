@@ -3,6 +3,70 @@
     "events": [
       {
         "action": "Pushed code",
+        "at": "2026-10-22T01:59:23Z",
+        "key": "gitea:39741",
+        "repo": "NuQloud-Public/nuqloud-ai",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-22T01:48:10Z",
+        "key": "gitea:39740",
+        "repo": "crowetic/Q-Assets",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/Q-Assets"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-22T01:23:07Z",
+        "key": "gitea:39739",
+        "repo": "crowetic/Q-Assets",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/Q-Assets"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-21T23:02:39Z",
+        "key": "gitea:39735",
+        "repo": "crowetic/Q-Assets",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/Q-Assets"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-21T22:45:27Z",
+        "key": "gitea:39734",
+        "repo": "crowetic/Q-Assets",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/Q-Assets"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-21T22:42:39Z",
+        "key": "gitea:39732",
+        "repo": "crowetic/Q-Assets",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/Q-Assets"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-21T22:40:54Z",
+        "key": "gitea:39731",
+        "repo": "crowetic/Qortal-External-Auth",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/Qortal-External-Auth"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-21T22:37:15Z",
+        "key": "gitea:39729",
+        "repo": "crowetic/Qortal-External-Auth",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/Qortal-External-Auth"
+      },
+      {
+        "action": "Pushed code",
         "at": "2026-10-21T17:20:38Z",
         "key": "gitea:39715",
         "repo": "NuQloud-Public/nuqloud-ai",
@@ -512,81 +576,9 @@
         "repo": "NuQloud-Public/NuQloud-appointments",
         "source": "Gitea",
         "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-14T21:49:06Z",
-        "key": "gitea:39021",
-        "repo": "NuQloud-Public/NuQloud-appointments",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-14T21:44:08Z",
-        "key": "gitea:39018",
-        "repo": "crowetic/QORTector-scripts",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/crowetic/QORTector-scripts"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-14T21:37:43Z",
-        "key": "gitea:39017",
-        "repo": "crowetic/QORTector-scripts",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/crowetic/QORTector-scripts"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-14T20:33:21Z",
-        "key": "gitea:39015",
-        "repo": "NuQloud-Public/nuqloud-ai",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-14T18:20:56Z",
-        "key": "gitea:39010",
-        "repo": "NuQloud-Public/NuQloud-appointments",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-14T17:31:11Z",
-        "key": "gitea:39002",
-        "repo": "NuQloud-Public/nuqloud-ai",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-14T17:06:40Z",
-        "key": "gitea:38994",
-        "repo": "NuQloud-Public/NuQloud-talk-federated-files",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-talk-federated-files"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-14T16:49:10Z",
-        "key": "gitea:38982",
-        "repo": "NuQloud-Public/NuQloud-appointments",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-14T01:15:16Z",
-        "key": "gitea:38949",
-        "repo": "NuQloud-Public/nuqloud-ai",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
       }
     ],
-    "feed_updated_at": "2026-10-21T20:09:24Z",
+    "feed_updated_at": "2026-10-22T09:24:02Z",
     "heatmap": {
       "2025-10-17": 6,
       "2025-10-29": 1,
@@ -729,9 +721,10 @@
       "2026-10-17": 4,
       "2026-10-19": 6,
       "2026-10-20": 40,
-      "2026-10-21": 1
+      "2026-10-21": 6,
+      "2026-10-22": 3
     },
-    "heatmap_updated_at": "2026-10-21T20:09:24Z"
+    "heatmap_updated_at": "2026-10-22T09:24:02Z"
   },
   "github": {
     "events": [
@@ -739,6 +732,14 @@
         "action": "Pushed code",
         "at": "2026-10-21T18:43:16Z",
         "key": "github:24739334878",
+        "repo": "crowetic/Qortal-Hub",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/Qortal-Hub"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-20T15:26:40Z",
+        "key": "github:24793017418",
         "repo": "crowetic/Qortal-Hub",
         "source": "GitHub",
         "url": "https://github.com/crowetic/Qortal-Hub"
@@ -896,6 +897,6 @@
         "url": "https://github.com/crowetic/qortal"
       }
     ],
-    "feed_updated_at": "2026-10-21T20:09:24Z"
+    "feed_updated_at": "2026-10-22T09:24:02Z"
   }
 }
