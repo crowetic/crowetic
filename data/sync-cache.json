@@ -3,6 +3,22 @@
     "events": [
       {
         "action": "Pushed code",
+        "at": "2026-10-24T16:50:33Z",
+        "key": "gitea:39878",
+        "repo": "NuQloud-Public/nuqloud-ai",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-24T16:07:43Z",
+        "key": "gitea:39875",
+        "repo": "crowetic/Q-Assets",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/Q-Assets"
+      },
+      {
+        "action": "Pushed code",
         "at": "2026-10-23T21:51:52Z",
         "key": "gitea:39855",
         "repo": "crowetic/open-webui-model-router",
@@ -506,7 +522,7 @@
         "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
       }
     ],
-    "feed_updated_at": "2026-10-24T08:52:19Z",
+    "feed_updated_at": "2026-10-24T18:47:10Z",
     "heatmap": {
       "2025-10-17": 6,
       "2025-10-29": 1,
@@ -651,9 +667,10 @@
       "2026-10-20": 40,
       "2026-10-21": 6,
       "2026-10-22": 6,
-      "2026-10-23": 6
+      "2026-10-23": 6,
+      "2026-10-24": 2
     },
-    "heatmap_updated_at": "2026-10-24T08:52:19Z"
+    "heatmap_updated_at": "2026-10-24T18:47:10Z"
   },
   "github": {
     "events": [
@@ -842,6 +859,6 @@
         "url": "https://github.com/crowetic/qortal"
       }
     ],
-    "feed_updated_at": "2026-10-24T08:52:19Z"
+    "feed_updated_at": "2026-10-24T18:47:10Z"
   }
 }
