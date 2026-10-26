@@ -514,9 +514,8 @@
         "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments"
       }
     ],
-    "feed_updated_at": "2026-10-25T19:02:32Z",
+    "feed_updated_at": "2026-10-26T10:06:06Z",
     "heatmap": {
-      "2025-10-17": 6,
       "2025-10-29": 1,
       "2025-11-18": 3,
       "2025-11-19": 1,
@@ -662,7 +661,7 @@
       "2026-10-23": 6,
       "2026-10-24": 5
     },
-    "heatmap_updated_at": "2026-10-25T19:02:32Z"
+    "heatmap_updated_at": "2026-10-26T10:06:06Z"
   },
   "github": {
     "events": [
@@ -851,6 +850,6 @@
         "url": "https://github.com/crowetic/qortal"
       }
     ],
-    "feed_updated_at": "2026-10-25T19:02:32Z"
+    "feed_updated_at": "2026-10-26T10:06:06Z"
   }
 }
