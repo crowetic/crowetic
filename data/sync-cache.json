@@ -3,6 +3,22 @@
     "events": [
       {
         "action": "Pushed code",
+        "at": "2026-10-27T00:30:56Z",
+        "key": "gitea:39929",
+        "repo": "crowetic/QORTector-scripts",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/QORTector-scripts"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-26T23:26:22Z",
+        "key": "gitea:39924",
+        "repo": "NuQloud-Public/nuqloud-ai",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
+      },
+      {
+        "action": "Pushed code",
         "at": "2026-10-24T22:02:40Z",
         "key": "gitea:39904",
         "repo": "NuQloud-Public/nuqloud-ai",
@@ -464,57 +480,9 @@
         "repo": "NuQloud-Public/nuqloud-ai",
         "source": "Gitea",
         "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-19T23:50:37Z",
-        "key": "gitea:39263",
-        "repo": "NuQloud-Public/NuQloud-appointments",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-19T23:24:41Z",
-        "key": "gitea:39258",
-        "repo": "NuQloud-Public/nuqloud-ai",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-19T20:46:43Z",
-        "key": "gitea:39228",
-        "repo": "crowetic/arrr-scripts",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/crowetic/arrr-scripts"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-19T20:46:17Z",
-        "key": "gitea:39227",
-        "repo": "crowetic/arrr-scripts",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/crowetic/arrr-scripts"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-19T18:02:26Z",
-        "key": "gitea:39219",
-        "repo": "NuQloud-Public/nuqloud-ai",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-19T17:08:05Z",
-        "key": "gitea:39216",
-        "repo": "NuQloud-Public/NuQloud-appointments",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments"
       }
     ],
-    "feed_updated_at": "2026-10-26T21:00:23Z",
+    "feed_updated_at": "2026-10-27T09:48:14Z",
     "heatmap": {
       "2025-10-29": 1,
       "2025-11-18": 3,
@@ -659,9 +627,11 @@
       "2026-10-21": 6,
       "2026-10-22": 6,
       "2026-10-23": 6,
-      "2026-10-24": 5
+      "2026-10-24": 5,
+      "2026-10-26": 1,
+      "2026-10-27": 1
     },
-    "heatmap_updated_at": "2026-10-26T21:00:23Z"
+    "heatmap_updated_at": "2026-10-27T09:48:14Z"
   },
   "github": {
     "events": [
@@ -850,6 +820,6 @@
         "url": "https://github.com/crowetic/qortal"
       }
     ],
-    "feed_updated_at": "2026-10-26T21:00:23Z"
+    "feed_updated_at": "2026-10-27T09:48:14Z"
   }
 }
