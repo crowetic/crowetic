@@ -3,6 +3,54 @@
     "events": [
       {
         "action": "Pushed code",
+        "at": "2026-10-29T20:14:55Z",
+        "key": "gitea:40123",
+        "repo": "NuQloud-Public/nuqloud-ai",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-29T20:13:16Z",
+        "key": "gitea:40120",
+        "repo": "NuQloud-Public/nuqloud-ai",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-29T19:26:48Z",
+        "key": "gitea:40109",
+        "repo": "NuQloud-Public/nuqloud-ai",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-29T16:23:38Z",
+        "key": "gitea:40092",
+        "repo": "NuQloud-Public/nuqloud-ai",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-29T16:08:16Z",
+        "key": "gitea:40089",
+        "repo": "NuQloud-Public/NuQloud-talk-federated-files",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-talk-federated-files"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-29T16:00:29Z",
+        "key": "gitea:40086",
+        "repo": "NuQloud-Public/nuqloud-ai",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
+      },
+      {
+        "action": "Pushed code",
         "at": "2026-10-29T02:06:40Z",
         "key": "gitea:40074",
         "repo": "crowetic/Q-Assets",
@@ -194,7 +242,7 @@
         "url": "https://gitea.qortal.link/crowetic/Q-Assets"
       }
     ],
-    "feed_updated_at": "2026-10-29T10:53:00Z",
+    "feed_updated_at": "2026-10-29T21:07:02Z",
     "heatmap": {
       "2025-10-29": 1,
       "2025-11-18": 3,
@@ -343,12 +391,28 @@
       "2026-10-26": 1,
       "2026-10-27": 2,
       "2026-10-28": 2,
-      "2026-10-29": 2
+      "2026-10-29": 8
     },
-    "heatmap_updated_at": "2026-10-29T10:53:00Z"
+    "heatmap_updated_at": "2026-10-29T21:07:02Z"
   },
   "github": {
     "events": [
+      {
+        "action": "Pushed code",
+        "at": "2026-10-28T02:23:03Z",
+        "key": "github:25552770936",
+        "repo": "crowetic/Qortal-Hub",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/Qortal-Hub"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-28T01:36:10Z",
+        "key": "github:25549364347",
+        "repo": "crowetic/Qortal-Hub",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/Qortal-Hub"
+      },
       {
         "action": "Pushed code",
         "at": "2026-10-28T00:18:16Z",
@@ -361,6 +425,14 @@
         "action": "Pushed code",
         "at": "2026-10-28T00:11:50Z",
         "key": "github:25442958110",
+        "repo": "crowetic/qortal",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/qortal"
+      },
+      {
+        "action": "Created branch or tag",
+        "at": "2026-10-27T23:39:57Z",
+        "key": "github:25541378267",
         "repo": "crowetic/qortal",
         "source": "GitHub",
         "url": "https://github.com/crowetic/qortal"
@@ -385,6 +457,14 @@
         "action": "Pushed code",
         "at": "2026-10-27T20:44:53Z",
         "key": "github:25430204576",
+        "repo": "crowetic/Qortal-Hub",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/Qortal-Hub"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-27T20:33:57Z",
+        "key": "github:25524773273",
         "repo": "crowetic/Qortal-Hub",
         "source": "GitHub",
         "url": "https://github.com/crowetic/Qortal-Hub"
@@ -622,6 +702,6 @@
         "url": "https://github.com/Qortal/qortal"
       }
     ],
-    "feed_updated_at": "2026-10-29T10:53:00Z"
+    "feed_updated_at": "2026-10-29T21:07:02Z"
   }
 }
