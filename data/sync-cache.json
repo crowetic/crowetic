@@ -192,57 +192,9 @@
         "repo": "NuQloud-Public/nuqloud-ai",
         "source": "Gitea",
         "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-22T17:16:19Z",
-        "key": "gitea:39756",
-        "repo": "crowetic/Q-Assets",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/crowetic/Q-Assets"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-22T16:45:14Z",
-        "key": "gitea:39752",
-        "repo": "NuQloud-Public/nuqloud-ai",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-22T16:44:55Z",
-        "key": "gitea:39748",
-        "repo": "crowetic/Q-Assets",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/crowetic/Q-Assets"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-22T01:59:23Z",
-        "key": "gitea:39741",
-        "repo": "NuQloud-Public/nuqloud-ai",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-22T01:48:10Z",
-        "key": "gitea:39740",
-        "repo": "crowetic/Q-Assets",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/crowetic/Q-Assets"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-22T01:23:07Z",
-        "key": "gitea:39739",
-        "repo": "crowetic/Q-Assets",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/crowetic/Q-Assets"
       }
     ],
-    "feed_updated_at": "2026-10-29T21:07:02Z",
+    "feed_updated_at": "2026-10-30T10:51:13Z",
     "heatmap": {
       "2025-10-29": 1,
       "2025-11-18": 3,
@@ -393,10 +345,58 @@
       "2026-10-28": 2,
       "2026-10-29": 8
     },
-    "heatmap_updated_at": "2026-10-29T21:07:02Z"
+    "heatmap_updated_at": "2026-10-30T10:51:13Z"
   },
   "github": {
     "events": [
+      {
+        "action": "Pushed code",
+        "at": "2026-10-29T00:36:03Z",
+        "key": "github:25603741173",
+        "repo": "crowetic/Qortal-Hub",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/Qortal-Hub"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-29T00:21:22Z",
+        "key": "github:25578014440",
+        "repo": "crowetic/Qortal-Hub",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/Qortal-Hub"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-28T23:51:29Z",
+        "key": "github:25572128492",
+        "repo": "crowetic/Qortal-Hub",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/Qortal-Hub"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-28T22:59:38Z",
+        "key": "github:25570813306",
+        "repo": "crowetic/Qortal-Hub",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/Qortal-Hub"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-10-28T22:17:01Z",
+        "key": "github:25578885106",
+        "repo": "crowetic/Qortal-Hub",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/Qortal-Hub"
+      },
+      {
+        "action": "Created branch or tag",
+        "at": "2026-10-28T21:52:48Z",
+        "key": "github:25565889390",
+        "repo": "crowetic/Qortal-Hub",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/Qortal-Hub"
+      },
       {
         "action": "Pushed code",
         "at": "2026-10-28T02:23:03Z",
@@ -702,6 +702,6 @@
         "url": "https://github.com/Qortal/qortal"
       }
     ],
-    "feed_updated_at": "2026-10-29T21:07:02Z"
+    "feed_updated_at": "2026-10-30T10:51:13Z"
   }
 }
