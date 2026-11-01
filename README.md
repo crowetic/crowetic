@@ -45,15 +45,15 @@ A lot of my engineering happens outside GitHub. The projects and activity below 
 </p>
 
 <!-- CROWETIC:ACTIVITY:START -->
-**Last fetched:** Gitea 2026-10-31 19:58 UTC · GitHub 2026-10-31 19:58 UTC
+**Last fetched:** Gitea 2026-11-01 11:15 UTC · GitHub 2026-11-01 11:15 UTC
 
 | Date (UTC) | Forge | Public activity | Repository |
 |:---|:---|:---|:---|
 | 2026-10-30 | **Gitea** | Pushed code | [crowetic/QORTector-scripts](https://gitea.qortal.link/crowetic/QORTector-scripts) |
 | 2026-10-30 | **Gitea** | Pushed code | [NuQloud-Public/nuqloud-ai](https://gitea.qortal.link/NuQloud-Public/nuqloud-ai) |
 | 2026-10-30 | **Gitea** | Pushed code | [crowetic/Qortal-External-Auth](https://gitea.qortal.link/crowetic/Qortal-External-Auth) |
-| 2026-10-29 | **Gitea** | Pushed code | [NuQloud-Public/nuqloud-ai](https://gitea.qortal.link/NuQloud-Public/nuqloud-ai) |
-| 2026-10-29 | **Gitea** | Pushed code | [NuQloud-Public/nuqloud-ai](https://gitea.qortal.link/NuQloud-Public/nuqloud-ai) |
+| 2026-10-30 | **GitHub** | Pushed code | [crowetic/Qortal-Hub](https://github.com/crowetic/Qortal-Hub) |
+| 2026-10-30 | **GitHub** | Created branch or tag | [crowetic/Qortal-Hub](https://github.com/crowetic/Qortal-Hub) |
 | 2026-10-29 | **Gitea** | Pushed code | [NuQloud-Public/nuqloud-ai](https://gitea.qortal.link/NuQloud-Public/nuqloud-ai) |
 | 2026-10-29 | **Gitea** | Pushed code | [NuQloud-Public/nuqloud-ai](https://gitea.qortal.link/NuQloud-Public/nuqloud-ai) |
 
