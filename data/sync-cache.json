@@ -3,6 +3,14 @@
     "events": [
       {
         "action": "Pushed code",
+        "at": "2026-11-04T17:17:32Z",
+        "key": "gitea:40409",
+        "repo": "NuQloud-Public/nuqloud-ai",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
+      },
+      {
+        "action": "Pushed code",
         "at": "2026-11-03T17:34:28Z",
         "key": "gitea:40329",
         "repo": "NuQloud-Public/nuqloud-ai",
@@ -250,7 +258,7 @@
         "url": "https://gitea.qortal.link/crowetic/arrr-scripts"
       }
     ],
-    "feed_updated_at": "2026-11-04T12:06:37Z",
+    "feed_updated_at": "2026-11-04T21:52:10Z",
     "heatmap": {
       "2025-10-29": 1,
       "2025-11-18": 3,
@@ -402,12 +410,37 @@
       "2026-10-29": 9,
       "2026-10-30": 3,
       "2026-11-02": 11,
-      "2026-11-03": 8
+      "2026-11-03": 8,
+      "2026-11-04": 1
     },
-    "heatmap_updated_at": "2026-11-04T12:06:37Z"
+    "heatmap_updated_at": "2026-11-04T21:52:10Z"
   },
   "github": {
     "events": [
+      {
+        "action": "Pushed code",
+        "at": "2026-11-03T03:33:23Z",
+        "key": "github:26170241308",
+        "repo": "crowetic/Qortal-Hub",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/Qortal-Hub"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-11-03T01:49:56Z",
+        "key": "github:26162469305",
+        "repo": "crowetic/qortal",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/qortal"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-11-03T00:22:51Z",
+        "key": "github:26156012114",
+        "repo": "crowetic/Qortal-Hub",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/Qortal-Hub"
+      },
       {
         "action": "Pushed code",
         "at": "2026-11-02T23:32:59Z",
@@ -415,6 +448,30 @@
         "repo": "crowetic/Stashi-Wallet",
         "source": "GitHub",
         "url": "https://github.com/crowetic/Stashi-Wallet"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-11-02T19:58:13Z",
+        "key": "github:26155500504",
+        "repo": "crowetic/qortal",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/qortal"
+      },
+      {
+        "action": "Created branch or tag",
+        "at": "2026-11-02T16:56:51Z",
+        "key": "github:26145940986",
+        "repo": "crowetic/qortal",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/qortal"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-11-02T16:22:17Z",
+        "key": "github:26135447496",
+        "repo": "Qortal/QORTector-scripts",
+        "source": "GitHub",
+        "url": "https://github.com/Qortal/QORTector-scripts"
       },
       {
         "action": "Pushed code",
@@ -791,32 +848,8 @@
         "repo": "crowetic/QORTector-scripts",
         "source": "GitHub",
         "url": "https://github.com/crowetic/QORTector-scripts"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-05T19:17:55Z",
-        "key": "github:23216802155",
-        "repo": "Qortal/qortal",
-        "source": "GitHub",
-        "url": "https://github.com/Qortal/qortal"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-05T19:17:38Z",
-        "key": "github:23091483756",
-        "repo": "Qortal/qortal",
-        "source": "GitHub",
-        "url": "https://github.com/Qortal/qortal"
-      },
-      {
-        "action": "Pull request activity",
-        "at": "2026-10-05T19:17:37Z",
-        "key": "github:16482401627",
-        "repo": "Qortal/qortal",
-        "source": "GitHub",
-        "url": "https://github.com/Qortal/qortal"
       }
     ],
-    "feed_updated_at": "2026-11-04T12:06:37Z"
+    "feed_updated_at": "2026-11-04T21:52:10Z"
   }
 }
