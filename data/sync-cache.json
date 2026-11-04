@@ -248,25 +248,9 @@
         "repo": "crowetic/arrr-scripts",
         "source": "Gitea",
         "url": "https://gitea.qortal.link/crowetic/arrr-scripts"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-27T20:33:52Z",
-        "key": "gitea:39949",
-        "repo": "crowetic/Qortal-External-Auth",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/crowetic/Qortal-External-Auth"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-27T00:30:56Z",
-        "key": "gitea:39929",
-        "repo": "crowetic/QORTector-scripts",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/crowetic/QORTector-scripts"
       }
     ],
-    "feed_updated_at": "2026-11-03T21:46:22Z",
+    "feed_updated_at": "2026-11-04T12:06:37Z",
     "heatmap": {
       "2025-10-29": 1,
       "2025-11-18": 3,
@@ -420,7 +404,7 @@
       "2026-11-02": 11,
       "2026-11-03": 8
     },
-    "heatmap_updated_at": "2026-11-03T21:46:22Z"
+    "heatmap_updated_at": "2026-11-04T12:06:37Z"
   },
   "github": {
     "events": [
@@ -833,6 +817,6 @@
         "url": "https://github.com/Qortal/qortal"
       }
     ],
-    "feed_updated_at": "2026-11-03T21:46:22Z"
+    "feed_updated_at": "2026-11-04T12:06:37Z"
   }
 }
