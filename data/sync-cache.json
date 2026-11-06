@@ -194,7 +194,7 @@
         "url": "https://gitea.qortal.link/crowetic/Qortal-External-Auth"
       }
     ],
-    "feed_updated_at": "2026-11-06T12:05:26Z",
+    "feed_updated_at": "2026-11-06T21:28:56Z",
     "heatmap": {
       "2025-10-29": 1,
       "2025-11-18": 3,
@@ -349,7 +349,7 @@
       "2026-11-03": 8,
       "2026-11-04": 3
     },
-    "heatmap_updated_at": "2026-11-06T12:05:26Z"
+    "heatmap_updated_at": "2026-11-06T21:28:56Z"
   },
   "github": {
     "events": [
@@ -810,6 +810,6 @@
         "url": "https://github.com/crowetic/qortal"
       }
     ],
-    "feed_updated_at": "2026-11-06T12:05:26Z"
+    "feed_updated_at": "2026-11-06T21:28:56Z"
   }
 }
