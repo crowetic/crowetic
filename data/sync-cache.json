@@ -122,7 +122,7 @@
         "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
       }
     ],
-    "feed_updated_at": "2026-11-11T11:51:40Z",
+    "feed_updated_at": "2026-11-11T22:41:19Z",
     "heatmap": {
       "2025-11-18": 3,
       "2025-11-19": 1,
@@ -278,7 +278,7 @@
       "2026-11-08": 4,
       "2026-11-09": 8
     },
-    "heatmap_updated_at": "2026-11-11T11:51:40Z"
+    "heatmap_updated_at": "2026-11-11T22:41:19Z"
   },
   "github": {
     "events": [
@@ -801,16 +801,8 @@
         "repo": "crowetic/qortal",
         "source": "GitHub",
         "url": "https://github.com/crowetic/qortal"
-      },
-      {
-        "action": "Created branch or tag",
-        "at": "2026-10-12T16:40:54Z",
-        "key": "github:23932051554",
-        "repo": "crowetic/qortal",
-        "source": "GitHub",
-        "url": "https://github.com/crowetic/qortal"
       }
     ],
-    "feed_updated_at": "2026-11-11T11:51:40Z"
+    "feed_updated_at": "2026-11-11T22:41:19Z"
   }
 }
