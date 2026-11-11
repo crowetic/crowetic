@@ -120,25 +120,9 @@
         "repo": "NuQloud-Public/nuqloud-ai",
         "source": "Gitea",
         "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-11-03T17:34:28Z",
-        "key": "gitea:40329",
-        "repo": "NuQloud-Public/nuqloud-ai",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-11-03T16:08:41Z",
-        "key": "gitea:40326",
-        "repo": "NuQloud-Public/nuqloud-ai",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
       }
     ],
-    "feed_updated_at": "2026-11-10T21:47:43Z",
+    "feed_updated_at": "2026-11-11T11:51:40Z",
     "heatmap": {
       "2025-11-18": 3,
       "2025-11-19": 1,
@@ -294,7 +278,7 @@
       "2026-11-08": 4,
       "2026-11-09": 8
     },
-    "heatmap_updated_at": "2026-11-10T21:47:43Z"
+    "heatmap_updated_at": "2026-11-11T11:51:40Z"
   },
   "github": {
     "events": [
@@ -827,6 +811,6 @@
         "url": "https://github.com/crowetic/qortal"
       }
     ],
-    "feed_updated_at": "2026-11-10T21:47:43Z"
+    "feed_updated_at": "2026-11-11T11:51:40Z"
   }
 }
