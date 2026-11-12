@@ -3,6 +3,14 @@
     "events": [
       {
         "action": "Pushed code",
+        "at": "2026-11-12T20:05:26Z",
+        "key": "gitea:40523",
+        "repo": "NuQloud-Public/NuQloud-docs",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-docs"
+      },
+      {
+        "action": "Pushed code",
         "at": "2026-11-09T16:11:45Z",
         "key": "gitea:40502",
         "repo": "crowetic/Qortal-Go-3.0",
@@ -98,7 +106,7 @@
         "url": "https://gitea.qortal.link/crowetic/QORTector-scripts"
       }
     ],
-    "feed_updated_at": "2026-11-12T12:41:25Z",
+    "feed_updated_at": "2026-11-12T22:13:50Z",
     "heatmap": {
       "2025-11-18": 3,
       "2025-11-19": 1,
@@ -252,9 +260,10 @@
       "2026-11-03": 8,
       "2026-11-04": 3,
       "2026-11-08": 4,
-      "2026-11-09": 8
+      "2026-11-09": 8,
+      "2026-11-12": 1
     },
-    "heatmap_updated_at": "2026-11-12T12:41:25Z"
+    "heatmap_updated_at": "2026-11-12T22:13:50Z"
   },
   "github": {
     "events": [
@@ -779,6 +788,6 @@
         "url": "https://github.com/crowetic/qortal"
       }
     ],
-    "feed_updated_at": "2026-11-12T12:41:25Z"
+    "feed_updated_at": "2026-11-12T22:13:50Z"
   }
 }
