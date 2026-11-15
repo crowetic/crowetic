@@ -130,7 +130,7 @@
         "url": "https://gitea.qortal.link/crowetic/QORTector-scripts"
       }
     ],
-    "feed_updated_at": "2026-11-15T11:56:19Z",
+    "feed_updated_at": "2026-11-15T21:01:50Z",
     "heatmap": {
       "2025-11-18": 3,
       "2025-11-19": 1,
@@ -289,7 +289,7 @@
       "2026-11-13": 1,
       "2026-11-14": 4
     },
-    "heatmap_updated_at": "2026-11-15T11:56:19Z"
+    "heatmap_updated_at": "2026-11-15T21:01:50Z"
   },
   "github": {
     "events": [
@@ -782,6 +782,6 @@
         "url": "https://github.com/crowetic/Qortal-Hub"
       }
     ],
-    "feed_updated_at": "2026-11-15T11:56:19Z"
+    "feed_updated_at": "2026-11-15T21:01:50Z"
   }
 }
