@@ -72,65 +72,9 @@
         "repo": "crowetic/Qortal-Go-3.0",
         "source": "Gitea",
         "url": "https://gitea.qortal.link/crowetic/Qortal-Go-3.0"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-11-09T01:16:58Z",
-        "key": "gitea:40487",
-        "repo": "crowetic/QORTector-scripts",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/crowetic/QORTector-scripts"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-11-09T00:41:28Z",
-        "key": "gitea:40486",
-        "repo": "crowetic/QORTector-scripts",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/crowetic/QORTector-scripts"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-11-09T00:24:06Z",
-        "key": "gitea:40485",
-        "repo": "crowetic/QORTector-scripts",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/crowetic/QORTector-scripts"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-11-09T00:07:54Z",
-        "key": "gitea:40484",
-        "repo": "crowetic/QORTector-scripts",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/crowetic/QORTector-scripts"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-11-09T00:02:10Z",
-        "key": "gitea:40483",
-        "repo": "crowetic/QORTector-scripts",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/crowetic/QORTector-scripts"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-11-08T21:11:55Z",
-        "key": "gitea:40482",
-        "repo": "crowetic/QORTector-scripts",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/crowetic/QORTector-scripts"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-11-08T20:19:26Z",
-        "key": "gitea:40481",
-        "repo": "crowetic/QORTector-scripts",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/crowetic/QORTector-scripts"
       }
     ],
-    "feed_updated_at": "2026-11-15T21:01:50Z",
+    "feed_updated_at": "2026-11-16T12:43:29Z",
     "heatmap": {
       "2025-11-18": 3,
       "2025-11-19": 1,
@@ -289,10 +233,18 @@
       "2026-11-13": 1,
       "2026-11-14": 4
     },
-    "heatmap_updated_at": "2026-11-15T21:01:50Z"
+    "heatmap_updated_at": "2026-11-16T12:43:29Z"
   },
   "github": {
     "events": [
+      {
+        "action": "Pushed code",
+        "at": "2026-11-14T20:31:31Z",
+        "key": "github:27298180513",
+        "repo": "Qortal/QORTector-scripts",
+        "source": "GitHub",
+        "url": "https://github.com/Qortal/QORTector-scripts"
+      },
       {
         "action": "Pushed code",
         "at": "2026-11-13T02:49:56Z",
@@ -782,6 +734,6 @@
         "url": "https://github.com/crowetic/Qortal-Hub"
       }
     ],
-    "feed_updated_at": "2026-11-15T21:01:50Z"
+    "feed_updated_at": "2026-11-16T12:43:29Z"
   }
 }
