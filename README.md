@@ -45,17 +45,17 @@ A lot of my engineering happens outside GitHub. The projects and activity below 
 </p>
 
 <!-- CROWETIC:ACTIVITY:START -->
-**Last fetched:** Gitea 2026-11-18 13:01 UTC · GitHub 2026-11-18 13:01 UTC
+**Last fetched:** Gitea 2026-11-18 22:56 UTC · GitHub 2026-11-18 22:56 UTC
 
 | Date (UTC) | Forge | Public activity | Repository |
 |:---|:---|:---|:---|
+| 2026-11-18 | **Gitea** | Pushed code | [NuQloud-Public/nuqloud-ai](https://gitea.qortal.link/NuQloud-Public/nuqloud-ai) |
+| 2026-11-18 | **Gitea** | Pushed code | [NuQloud-Public/NuQloud-appointments](https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments) |
+| 2026-11-18 | **Gitea** | Pushed code | [NuQloud-Public/nuqloud-ai](https://gitea.qortal.link/NuQloud-Public/nuqloud-ai) |
+| 2026-11-18 | **Gitea** | Pushed code | [NuQloud-Public/NuQloud-docs](https://gitea.qortal.link/NuQloud-Public/NuQloud-docs) |
 | 2026-11-18 | **GitHub** | Pushed code | [crowetic/Qortal-Hub](https://github.com/crowetic/Qortal-Hub) |
 | 2026-11-18 | **GitHub** | Created branch or tag | [crowetic/Qortal-Hub](https://github.com/crowetic/Qortal-Hub) |
 | 2026-11-18 | **Gitea** | Pushed code | [crowetic/QORTector-scripts](https://gitea.qortal.link/crowetic/QORTector-scripts) |
-| 2026-11-17 | **GitHub** | Pushed code | [crowetic/qortal](https://github.com/crowetic/qortal) |
-| 2026-11-17 | **Gitea** | Pushed code | [NuQloud-Public/NuQloud-docs](https://gitea.qortal.link/NuQloud-Public/NuQloud-docs) |
-| 2026-11-17 | **Gitea** | Pushed code | [NuQloud-Public/nuqloud-ai](https://gitea.qortal.link/NuQloud-Public/nuqloud-ai) |
-| 2026-11-17 | **Gitea** | Pushed code | [NuQloud-Public/NuQloud-docs](https://gitea.qortal.link/NuQloud-Public/NuQloud-docs) |
 
 <sub>Gitea includes public work in organizations such as NuQloud-Public. GitHub's public events endpoint covers recent activity (at most 30 days / 300 events). These are events, not an accurate cross-host commit count.</sub>
 <!-- CROWETIC:ACTIVITY:END -->
