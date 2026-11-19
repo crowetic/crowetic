@@ -3,6 +3,14 @@
     "events": [
       {
         "action": "Pushed code",
+        "at": "2026-11-19T22:10:14Z",
+        "key": "gitea:40897",
+        "repo": "NuQloud-Public/NuQloud-appointments",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments"
+      },
+      {
+        "action": "Pushed code",
         "at": "2026-11-18T21:48:56Z",
         "key": "gitea:40832",
         "repo": "NuQloud-Public/nuqloud-ai",
@@ -154,7 +162,7 @@
         "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-docs"
       }
     ],
-    "feed_updated_at": "2026-11-19T13:02:13Z",
+    "feed_updated_at": "2026-11-19T23:02:38Z",
     "heatmap": {
       "2025-11-18": 3,
       "2025-11-19": 1,
@@ -313,9 +321,10 @@
       "2026-11-13": 1,
       "2026-11-14": 4,
       "2026-11-17": 8,
-      "2026-11-18": 5
+      "2026-11-18": 5,
+      "2026-11-19": 1
     },
-    "heatmap_updated_at": "2026-11-19T13:02:13Z"
+    "heatmap_updated_at": "2026-11-19T23:02:38Z"
   },
   "github": {
     "events": [
@@ -910,32 +919,8 @@
         "repo": "crowetic/Qortal-Hub",
         "source": "GitHub",
         "url": "https://github.com/crowetic/Qortal-Hub"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-20T21:25:54Z",
-        "key": "github:24849739478",
-        "repo": "crowetic/Qortal-Hub",
-        "source": "GitHub",
-        "url": "https://github.com/crowetic/Qortal-Hub"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-20T15:26:40Z",
-        "key": "github:24793017418",
-        "repo": "crowetic/Qortal-Hub",
-        "source": "GitHub",
-        "url": "https://github.com/crowetic/Qortal-Hub"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-20T15:12:16Z",
-        "key": "github:24707429317",
-        "repo": "crowetic/Qortal-Hub",
-        "source": "GitHub",
-        "url": "https://github.com/crowetic/Qortal-Hub"
       }
     ],
-    "feed_updated_at": "2026-11-19T13:02:13Z"
+    "feed_updated_at": "2026-11-19T23:02:38Z"
   }
 }
