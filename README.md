@@ -45,17 +45,17 @@ A lot of my engineering happens outside GitHub. The projects and activity below 
 </p>
 
 <!-- CROWETIC:ACTIVITY:START -->
-**Last fetched:** Gitea 2026-11-19 23:02 UTC · GitHub 2026-11-19 23:02 UTC
+**Last fetched:** Gitea 2026-11-20 12:52 UTC · GitHub 2026-11-20 12:52 UTC
 
 | Date (UTC) | Forge | Public activity | Repository |
 |:---|:---|:---|:---|
+| 2026-11-20 | **Gitea** | Pushed code | [NuQloud-Public/nuqloud-ai](https://gitea.qortal.link/NuQloud-Public/nuqloud-ai) |
 | 2026-11-19 | **Gitea** | Pushed code | [NuQloud-Public/NuQloud-appointments](https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments) |
 | 2026-11-19 | **GitHub** | Pushed code | [crowetic/Q-Wallets](https://github.com/crowetic/Q-Wallets) |
 | 2026-11-19 | **GitHub** | Pushed code | [crowetic/qortal](https://github.com/crowetic/qortal) |
 | 2026-11-19 | **GitHub** | Pull request activity | [Qortal/qortal](https://github.com/Qortal/qortal) |
-| 2026-11-18 | **Gitea** | Pushed code | [NuQloud-Public/nuqloud-ai](https://gitea.qortal.link/NuQloud-Public/nuqloud-ai) |
-| 2026-11-18 | **Gitea** | Pushed code | [NuQloud-Public/NuQloud-appointments](https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments) |
-| 2026-11-18 | **Gitea** | Pushed code | [NuQloud-Public/nuqloud-ai](https://gitea.qortal.link/NuQloud-Public/nuqloud-ai) |
+| 2026-11-19 | **GitHub** | Pushed code | [crowetic/qortal](https://github.com/crowetic/qortal) |
+| 2026-11-18 | **GitHub** | Created branch or tag | [crowetic/Q-Wallets](https://github.com/crowetic/Q-Wallets) |
 
 <sub>Gitea includes public work in organizations such as NuQloud-Public. GitHub's public events endpoint covers recent activity (at most 30 days / 300 events). These are events, not an accurate cross-host commit count.</sub>
 <!-- CROWETIC:ACTIVITY:END -->
