@@ -45,7 +45,7 @@ A lot of my engineering happens outside GitHub. The projects and activity below 
 </p>
 
 <!-- CROWETIC:ACTIVITY:START -->
-**Last fetched:** Gitea 2026-11-22 21:44 UTC · GitHub 2026-11-22 21:44 UTC
+**Last fetched:** Gitea 2026-11-23 14:35 UTC · GitHub 2026-11-23 14:35 UTC
 
 | Date (UTC) | Forge | Public activity | Repository |
 |:---|:---|:---|:---|
