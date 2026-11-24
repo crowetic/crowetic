@@ -3,6 +3,78 @@
     "events": [
       {
         "action": "Pushed code",
+        "at": "2026-11-23T22:42:32Z",
+        "key": "gitea:41321",
+        "repo": "NuQloud-Public/NuQloud-appointments",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-11-23T21:59:53Z",
+        "key": "gitea:41316",
+        "repo": "crowetic/QORTector-scripts",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/QORTector-scripts"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-11-23T20:47:21Z",
+        "key": "gitea:41315",
+        "repo": "crowetic/Qortal-Go-3.0",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/Qortal-Go-3.0"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-11-23T20:45:43Z",
+        "key": "gitea:41314",
+        "repo": "crowetic/Qortal-Go-3.0",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/Qortal-Go-3.0"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-11-23T20:01:49Z",
+        "key": "gitea:41312",
+        "repo": "crowetic/Qortal-Go-3.0",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/Qortal-Go-3.0"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-11-23T19:36:56Z",
+        "key": "gitea:41307",
+        "repo": "NuQloud-Public/SHEF-custom-acc-creation",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/SHEF-custom-acc-creation"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-11-23T19:05:05Z",
+        "key": "gitea:41290",
+        "repo": "NuQloud-Public/NuQloud-appointments",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-11-23T19:04:51Z",
+        "key": "gitea:41287",
+        "repo": "NuQloud-Public/SHEF-custom-acc-creation",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/SHEF-custom-acc-creation"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-11-23T17:49:44Z",
+        "key": "gitea:41281",
+        "repo": "NuQloud-Public/nuqloud-ai",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
+      },
+      {
+        "action": "Pushed code",
         "at": "2026-11-22T05:59:24Z",
         "key": "gitea:41169",
         "repo": "crowetic/Qortal-Go-3.0",
@@ -240,33 +312,9 @@
         "repo": "NuQloud-Public/nuqloud-ai",
         "source": "Gitea",
         "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-11-17T03:14:14Z",
-        "key": "gitea:40616",
-        "repo": "NuQloud-Public/NuQloud-appointments",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-11-17T01:22:40Z",
-        "key": "gitea:40610",
-        "repo": "NuQloud-Public/NuQloud-appointments",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-11-17T00:33:19Z",
-        "key": "gitea:40602",
-        "repo": "NuQloud-Public/NuQloud-appointments",
-        "source": "Gitea",
-        "url": "https://gitea.qortal.link/NuQloud-Public/NuQloud-appointments"
       }
     ],
-    "feed_updated_at": "2026-11-23T14:35:56Z",
+    "feed_updated_at": "2026-11-24T02:53:36Z",
     "heatmap": {
       "2025-11-18": 3,
       "2025-11-19": 1,
@@ -429,9 +477,10 @@
       "2026-11-19": 1,
       "2026-11-20": 12,
       "2026-11-21": 4,
-      "2026-11-22": 3
+      "2026-11-22": 3,
+      "2026-11-23": 13
     },
-    "heatmap_updated_at": "2026-11-23T14:35:56Z"
+    "heatmap_updated_at": "2026-11-24T02:53:36Z"
   },
   "github": {
     "events": [
@@ -460,9 +509,33 @@
         "url": "https://github.com/crowetic/ear-bump"
       },
       {
+        "action": "Created branch or tag",
+        "at": "2026-11-21T21:41:16Z",
+        "key": "github:28081325934",
+        "repo": "crowetic/qortal",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/qortal"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-11-21T21:38:08Z",
+        "key": "github:28081083652",
+        "repo": "crowetic/ear-bump",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/ear-bump"
+      },
+      {
         "action": "Pushed code",
         "at": "2026-11-21T21:33:52Z",
         "key": "github:27863287899",
+        "repo": "crowetic/ear-bump",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/ear-bump"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-11-21T21:25:35Z",
+        "key": "github:28080072788",
         "repo": "crowetic/ear-bump",
         "source": "GitHub",
         "url": "https://github.com/crowetic/ear-bump"
@@ -482,6 +555,22 @@
         "repo": "crowetic/ear-bump",
         "source": "GitHub",
         "url": "https://github.com/crowetic/ear-bump"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-11-21T19:45:24Z",
+        "key": "github:28071788930",
+        "repo": "crowetic/qortal",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/qortal"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-11-21T18:48:10Z",
+        "key": "github:28067123544",
+        "repo": "crowetic/qortal",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/qortal"
       },
       {
         "action": "Pushed code",
@@ -1308,6 +1397,6 @@
         "url": "https://github.com/crowetic/qortal"
       }
     ],
-    "feed_updated_at": "2026-11-23T14:35:56Z"
+    "feed_updated_at": "2026-11-24T02:53:36Z"
   }
 }
