@@ -45,13 +45,13 @@ A lot of my engineering happens outside GitHub. The projects and activity below 
 </p>
 
 <!-- CROWETIC:ACTIVITY:START -->
-**Last fetched:** Gitea 2026-11-26 13:53 UTC · GitHub 2026-11-26 13:53 UTC
+**Last fetched:** Gitea 2026-11-27 00:34 UTC · GitHub 2026-11-27 00:34 UTC
 
 | Date (UTC) | Forge | Public activity | Repository |
 |:---|:---|:---|:---|
+| 2026-11-26 | **Gitea** | Pushed code | [NuQloud-Public/nuqloud-ai](https://gitea.qortal.link/NuQloud-Public/nuqloud-ai) |
 | 2026-11-26 | **Gitea** | Pushed code | [NuQloud-Public/NuQloud-Computer](https://gitea.qortal.link/NuQloud-Public/NuQloud-Computer) |
-| 2026-11-26 | **Gitea** | Pushed code | [NuQloud-Public/NuQloud-Computer](https://gitea.qortal.link/NuQloud-Public/NuQloud-Computer) |
-| 2026-11-26 | **Gitea** | Pushed code | [NuQloud-Public/NuQloud-Computer](https://gitea.qortal.link/NuQloud-Public/NuQloud-Computer) |
+| 2026-11-26 | **Gitea** | Pushed code | [NuQloud-Public/nuqloud-ai](https://gitea.qortal.link/NuQloud-Public/nuqloud-ai) |
 | 2026-11-26 | **Gitea** | Pushed code | [NuQloud-Public/NuQloud-Computer](https://gitea.qortal.link/NuQloud-Public/NuQloud-Computer) |
 | 2026-11-26 | **Gitea** | Pushed code | [NuQloud-Public/NuQloud-Computer](https://gitea.qortal.link/NuQloud-Public/NuQloud-Computer) |
 | 2026-11-26 | **Gitea** | Pushed code | [NuQloud-Public/NuQloud-Computer](https://gitea.qortal.link/NuQloud-Public/NuQloud-Computer) |
