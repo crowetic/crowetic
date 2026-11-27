@@ -386,9 +386,8 @@
         "url": "https://gitea.qortal.link/crowetic/Qortal-Go-3.0"
       }
     ],
-    "feed_updated_at": "2026-11-27T00:34:19Z",
+    "feed_updated_at": "2026-11-27T13:50:17Z",
     "heatmap": {
-      "2025-11-19": 1,
       "2025-11-22": 2,
       "2025-11-23": 1,
       "2025-11-24": 1,
@@ -554,10 +553,34 @@
       "2026-11-25": 8,
       "2026-11-26": 11
     },
-    "heatmap_updated_at": "2026-11-27T00:34:19Z"
+    "heatmap_updated_at": "2026-11-27T13:50:17Z"
   },
   "github": {
     "events": [
+      {
+        "action": "Pushed code",
+        "at": "2026-11-26T02:26:24Z",
+        "key": "github:28415324145",
+        "repo": "crowetic/Qortal-Hub",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/Qortal-Hub"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-11-25T21:19:42Z",
+        "key": "github:28391669173",
+        "repo": "crowetic/Qortal-Hub",
+        "source": "GitHub",
+        "url": "https://github.com/crowetic/Qortal-Hub"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-11-25T18:15:05Z",
+        "key": "github:28420910933",
+        "repo": "Qortal/qortal",
+        "source": "GitHub",
+        "url": "https://github.com/Qortal/qortal"
+      },
       {
         "action": "Pull request activity",
         "at": "2026-11-25T18:15:03Z",
@@ -1389,24 +1412,8 @@
         "repo": "crowetic/Qortal-Hub",
         "source": "GitHub",
         "url": "https://github.com/crowetic/Qortal-Hub"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-28T02:23:03Z",
-        "key": "github:25552770936",
-        "repo": "crowetic/Qortal-Hub",
-        "source": "GitHub",
-        "url": "https://github.com/crowetic/Qortal-Hub"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-28T01:36:10Z",
-        "key": "github:25549364347",
-        "repo": "crowetic/Qortal-Hub",
-        "source": "GitHub",
-        "url": "https://github.com/crowetic/Qortal-Hub"
       }
     ],
-    "feed_updated_at": "2026-11-27T00:34:19Z"
+    "feed_updated_at": "2026-11-27T13:50:17Z"
   }
 }
