@@ -3,6 +3,22 @@
     "events": [
       {
         "action": "Pushed code",
+        "at": "2026-11-28T04:38:51Z",
+        "key": "gitea:41652",
+        "repo": "NuQloud-Public/nuqloud-ai",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
+      },
+      {
+        "action": "Pushed code",
+        "at": "2026-11-28T02:58:21Z",
+        "key": "gitea:41640",
+        "repo": "crowetic/QORTector-scripts",
+        "source": "Gitea",
+        "url": "https://gitea.qortal.link/crowetic/QORTector-scripts"
+      },
+      {
+        "action": "Pushed code",
         "at": "2026-11-27T20:13:59Z",
         "key": "gitea:41609",
         "repo": "NuQloud-Public/nuqloud-ai",
@@ -282,7 +298,7 @@
         "url": "https://gitea.qortal.link/NuQloud-Public/nuqloud-ai"
       }
     ],
-    "feed_updated_at": "2026-11-28T00:01:46Z",
+    "feed_updated_at": "2026-11-28T12:58:13Z",
     "heatmap": {
       "2025-11-22": 2,
       "2025-11-23": 1,
@@ -448,9 +464,10 @@
       "2026-11-24": 2,
       "2026-11-25": 8,
       "2026-11-26": 11,
-      "2026-11-27": 2
+      "2026-11-27": 2,
+      "2026-11-28": 2
     },
-    "heatmap_updated_at": "2026-11-28T00:01:46Z"
+    "heatmap_updated_at": "2026-11-28T12:58:13Z"
   },
   "github": {
     "events": [
@@ -1245,24 +1262,8 @@
         "repo": "crowetic/qortal",
         "source": "GitHub",
         "url": "https://github.com/crowetic/qortal"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-29T00:36:03Z",
-        "key": "github:25603741173",
-        "repo": "crowetic/Qortal-Hub",
-        "source": "GitHub",
-        "url": "https://github.com/crowetic/Qortal-Hub"
-      },
-      {
-        "action": "Pushed code",
-        "at": "2026-10-29T00:21:22Z",
-        "key": "github:25578014440",
-        "repo": "crowetic/Qortal-Hub",
-        "source": "GitHub",
-        "url": "https://github.com/crowetic/Qortal-Hub"
       }
     ],
-    "feed_updated_at": "2026-11-28T00:01:46Z"
+    "feed_updated_at": "2026-11-28T12:58:13Z"
   }
 }
